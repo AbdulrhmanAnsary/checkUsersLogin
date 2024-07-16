@@ -4,7 +4,7 @@ Simple code to user login in many cases, I used pytest to make a test unit.
 ## Getting Started
 To get started, clone this repository to your local machine using the following command:
 ```bash
-git clone https://github.com/AbdulrhmanAnsarycheckUsersLogin.git
+git clone https://github.com/AbdulrhmanAnsary/checkUsersLogin.git
 ```
 ## Usage
 Once you've cloned the repository, navigate to the directory and explore the scripts available. Each script is named descriptively to indicate its purpose or the concept it demonstrates.
