@@ -12,6 +12,10 @@ To execute a python code, you can use the following command:
 ```bash
 python main.py
 ```
+To run the test code using putest:
+```bash
+pytest testCheckUsersLogin.py
+```
 Remember to make the code executable if it's not already:
 ```bash
 chmod +x libraryManagement.py
