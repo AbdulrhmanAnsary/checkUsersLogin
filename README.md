@@ -1,6 +1,6 @@
 # Check Users Login
 ## Description
-Simple code to user login in many cases, I used pytest to make a test unit.
+A simple code to check user login in many cases, I used pytest to make a unit test.
 ## Getting Started
 To get started, clone this repository to your local machine using the following command:
 ```bash
@@ -12,13 +12,13 @@ To execute a python code, you can use the following command:
 ```bash
 python main.py
 ```
-To run the test code using putest:
+To run the test code using pytest:
 ```bash
 pytest testCheckUsersLogin.py
 ```
 Remember to make the code executable if it's not already:
 ```bash
-chmod +x libraryManagement.py
+chmod +x main.py
 ```
 ## Contributing
 If you'd like to contribute to this repository by adding more Bash scripts or improving existing ones, feel free to fork the repository, make your changes, and submit a pull request. Your contributions are highly appreciated!
